@@ -1,3 +1,33 @@
 title: "César Pablo Domínguez Prieto"
-description: "Sitio web académico personal"
-theme: minima
+email: cesar.dominguez@usc.gal
+description: >-
+  Sitio web académico personal.
+baseurl: ""
+url: "https://cpdominguez.github.io"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+minimal_mistakes_skin: default
+locale: "es"
+name: "César Pablo Domínguez Prieto"
+repository: "CesarPabloDominguezPrieto/cpdominguez.github.io"
+
+author:
+  name: "César Pablo Domínguez Prieto"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Profesor de Literatura Comparada na USC · Honorary Research Fellow na University of Glasgow"
+  links:
+    - label: "ORCID"
+      icon: "fas fa-id-badge"
+      url: "https://orcid.org/0000-0003-1226-3337"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=XfqmemEAAAAJ&hl=es"
+    - label: "Academia.edu"
+      icon: "fas fa-university"
+      url: "https://usc-es.academia.edu/C%C3%A9sarDom%C3%ADnguez"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/cesardominguezprieto/"
